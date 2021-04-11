@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tirupatibalaji-Dev/Tirupatibalaji-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tirupatibalaji-Dev/Tirupatibalaji-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Welcome to Tirupatibalaji.DEV Profile
 
@@ -30,4 +30,4 @@ DTS Mod bot is a SuperTech Bot. That will handler Your Server Very Nicely
 - Customizable Welcome Message System.
 - Moderation.
 - And Much MORE.
--->
+

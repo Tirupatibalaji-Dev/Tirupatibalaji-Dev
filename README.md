@@ -5,6 +5,7 @@
 
 <h1 class="code-line" style="text-align: center;" data-line-start="0" data-line-end="1"><a id="Welcome_to_TirupatibalajiDEV_Profile_0"></a><a href="https://emojipedia.org/balloon/"><span class="emoji">🎈</span></a>Welcome to Tirupatibalaji.DEV Profile <a href="https://emojipedia.org/balloon/"><span class="emoji">🎈</span></a></h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Hi! I am <strong>Tirupatibalaji Shantaram Dighole</strong>. I am Perfectional Discord Bot, Web Development and DB based project <strong>Developer</strong>.</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirupatibalaji-Dev&show_icons=true&theme=radical)
 <h2 class="code-line" style="text-align: center;" data-line-start="5" data-line-end="6"><a id="My_Projects_5"></a><a href="https://emojipedia.org/party-popper/"><span class="emoji">🎉</span></a>My Projects<a href="https://emojipedia.org/party-popper/"><span class="emoji">🎉</span></a></h2>
 <ul>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Now I am Working on DTS Mod Discord bot. This bot is SuperTech Bot.</li>

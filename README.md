@@ -14,6 +14,24 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">Also i made a Minecraft Server.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">I made a website for school project.</li>
 </ul>
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
+<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
+<code><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
+<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
+<code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
+<code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>  
+
 <h2 class="code-line" style="text-align: center;" data-line-start="12" data-line-end="13"><a id="Touch_with_Me_12"></a><a href="https://emojipedia.org/gem-stone/"><span class="emoji">💎</span></a>Touch with Me<a href="https://emojipedia.org/gem-stone/"><span class="emoji">💎</span></a></h2>
 <p class="has-line-data" style="text-align: center;" data-line-start="13" data-line-end="14"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042017/untitled-2_5.png" alt="" width="48" height="48" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://dsc.gg/teamdtsdev's"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="" width="48" height="48" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/tirupatibalajid/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="" width="48" height="48" /></a></p>
 <h2 class="code-line" style="text-align: center;" data-line-start="17" data-line-end="18"><a id="DTS_Mod_Bot_17"></a><a href="https://emojipedia.org/pushpin/"><span class="emoji">📌</span></a> DTS Mod Bot <a href="https://emojipedia.org/pushpin/"><span class="emoji">📌</span></a></h2>

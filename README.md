@@ -49,3 +49,4 @@
 <li class="has-line-data" data-line-start="26" data-line-end="27">And Much MORE.</li>
 </ul>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yje1b68d2zrl8gd41hxu0q7vd&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yje1b68d2zrl8gd41hxu0q7vd&redirect=true)

@@ -33,20 +33,3 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">Also i made a Minecraft Server.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">I made a website for school project.</li>
 </ul>
-
-
-<h2 class="code-line" style="text-align: center;" data-line-start="12" data-line-end="13"><a id="Touch_with_Me_12"></a><a href="https://emojipedia.org/gem-stone/"><span class="emoji">💎</span></a>Touch with Me<a href="https://emojipedia.org/gem-stone/"><span class="emoji">💎</span></a></h2>
-<p class="has-line-data" style="text-align: center;" data-line-start="13" data-line-end="14"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042017/untitled-2_5.png" alt="" width="48" height="48" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://dsc.gg/teamdtsdev's"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="" width="48" height="48" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/tirupatibalajid/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="" width="48" height="48" /></a></p>
-<h2 class="code-line" style="text-align: center;" data-line-start="17" data-line-end="18"><a id="DTS_Mod_Bot_17"></a><a href="https://emojipedia.org/pushpin/"><span class="emoji">📌</span></a> DTS Mod Bot <a href="https://emojipedia.org/pushpin/"><span class="emoji">📌</span></a></h2>
-<p class="has-line-data" data-line-start="19" data-line-end="20">DTS Mod bot is a SuperTech Bot. That will handler Your Server Very Nicely</p>
-<h3 class="code-line" data-line-start="20" data-line-end="21"><a id="Features_20"></a>Features:</h3>
-<ul>
-<li class="has-line-data" data-line-start="21" data-line-end="22">All in one Bot</li>
-<li class="has-line-data" data-line-start="22" data-line-end="23">Customizable Ticket System.</li>
-<li class="has-line-data" data-line-start="23" data-line-end="24">Suggestion, Bug / Report System.</li>
-<li class="has-line-data" data-line-start="24" data-line-end="25">Customizable Welcome Message System.</li>
-<li class="has-line-data" data-line-start="25" data-line-end="26">Moderation.</li>
-<li class="has-line-data" data-line-start="26" data-line-end="27">And Much MORE.</li>
-</ul>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yje1b68d2zrl8gd41hxu0q7vd&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yje1b68d2zrl8gd41hxu0q7vd&redirect=true)

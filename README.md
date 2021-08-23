@@ -25,11 +25,3 @@
 
 
 <br>
-
-<h2 class="code-line" style="text-align: center;" data-line-start="5" data-line-end="6"><a id="My_Projects_5"></a><a href="https://emojipedia.org/party-popper/"><span class="emoji">🎉</span></a>My Projects<a href="https://emojipedia.org/party-popper/"><span class="emoji">🎉</span></a></h2>
-<ul>
-<li class="has-line-data" data-line-start="7" data-line-end="8">Now I am Working on DTS Mod Discord bot. This bot is SuperTech Bot.</li>
-<li class="has-line-data" data-line-start="8" data-line-end="9">Previasly I made some bots for servers.</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">Also i made a Minecraft Server.</li>
-<li class="has-line-data" data-line-start="10" data-line-end="12">I made a website for school project.</li>
-</ul>

@@ -2,8 +2,8 @@
 ![Header](./github-header-image.png)
 # 💫About Me :
 - 🔭 I’m currently working on DTS Mod
-- 🌱 I’m currently learning Read Redux
-- 💬 Ask me about React Js
+- 🌱 I’m currently learning React Redux
+- 💬 Ask me about Web Development
 - 📫 How to reach me: contact@thedtsdevelopment.xyz
 - 😄 Pronouns: Tirupatibalaji
 - ⚡ Fun fact: I love Freelancing

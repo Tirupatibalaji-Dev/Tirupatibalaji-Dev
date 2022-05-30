@@ -1,12 +1,12 @@
 ### Hi there 👋
-
+![Header](./github-header-image.png)
 # 💫About Me :
-🔭 I’m currently working on DTS Mod
-🌱 I’m currently learning Read Redux
-💬 Ask me about React Js
-📫 How to reach me: contact@thedtsdevelopment.xyz
-😄 Pronouns: Tirupatibalaji
-⚡ Fun fact: I love Freelancing
+- 🔭 I’m currently working on DTS Mod
+- 🌱 I’m currently learning Read Redux
+- 💬 Ask me about React Js
+- 📫 How to reach me: contact@thedtsdevelopment.xyz
+- 😄 Pronouns: Tirupatibalaji
+- ⚡ Fun fact: I love Freelancing
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/dxBDBUAAxU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tirupatibalajithedev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tirupat31844564) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TheDTSDevelopment) 
